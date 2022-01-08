@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/corona.github.io/static/css/main.bdb877ea.css",
+    "main.js": "/corona.github.io/static/js/main.27e66999.js",
+    "static/js/787.91185153.chunk.js": "/corona.github.io/static/js/787.91185153.chunk.js",
+    "static/media/download.jfif": "/corona.github.io/static/media/download.44d14461ad6b85322ea4.jfif",
+    "index.html": "/corona.github.io/index.html",
+    "main.bdb877ea.css.map": "/corona.github.io/static/css/main.bdb877ea.css.map",
+    "main.27e66999.js.map": "/corona.github.io/static/js/main.27e66999.js.map",
+    "787.91185153.chunk.js.map": "/corona.github.io/static/js/787.91185153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdb877ea.css",
+    "static/js/main.27e66999.js"
+  ]
+}
